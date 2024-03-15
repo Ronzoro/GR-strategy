@@ -1,6 +1,6 @@
 # A universal Knowledge Distillation enhancement strategy via Gene Recombination
 
-This paper contains  the compared approaches, such as classic KD, *Feature-Based Distillation* variants like FitNet, AT, VID,SemCKD and *Relation-Based Distillation* variants like RKD,IRG,SP, CC, PKT,HKD,CRD.This code only shows a portion of the methods used.
+This paper contains  the compared approaches, such as classic KD, *Feature-Based Distillation* variants like FitNet, AT, VID,SemCKD and *Relation-Based Distillation* variants like RKD,IRG,SP, CC, PKT,HKD,CRD.This code only shows a portion of the methods used. In the file GR_weight, the optimal weights trained by our method for the "ResNet32x4 & ShuffleNetV1" combination are displayed.
 
 **CIFAR-100 Results**
 
